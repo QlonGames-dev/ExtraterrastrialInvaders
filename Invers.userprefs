@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CameraShake.cs">
+    <Files>
+      <File FileName="Assets\SaveManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ExplosionForce2D.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\CNControls\Scripts\Controllers\SimpleButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AudioManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\CNControls\Examples\Scenes\2D\Scripts\Platformer2DUserControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraShake.cs" Line="35" Column="4" />
+      <File FileName="Assets\Scripts\MenuManager.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Weapon.cs" Line="43" Column="39" NotebookId="1" />
+      <File FileName="Assets\Standard Assets\CNControls\Examples\Scenes\2D\Scripts\PlatformerCharacter2D.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

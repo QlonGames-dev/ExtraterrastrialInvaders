@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Save xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <health>100</health>
+  <coin>5</coin>
+  <x>0</x>
+  <y>0</y>
+  <z>0</z>
+</Save>
