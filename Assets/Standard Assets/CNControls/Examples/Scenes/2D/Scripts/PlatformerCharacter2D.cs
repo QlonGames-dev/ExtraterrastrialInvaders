@@ -33,7 +33,7 @@ namespace UnityStandardAssets.Copy._2D
             m_GroundCheck = transform.Find("GroundCheck");
             m_Anim = GetComponent<Animator>();
             m_Rigidbody2D = GetComponent<Rigidbody2D>();
-			playerGraphics = transform.FindChild ("Graphics");
+			playerGraphics = transform.Find ("Graphics");
 			if (playerGraphics == null) 
 			{
 				Debug.LogError ("No 'Graphics'!");

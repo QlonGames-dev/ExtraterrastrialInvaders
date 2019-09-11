@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="windows-1251"?>
-<Save xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0"?>
+<Save xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <health>100</health>
   <coin>5</coin>
   <x>0</x>
